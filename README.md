@@ -1,6 +1,6 @@
 # SkillPortal – Skill Assessment & SHL Practice Platform
 
-A production-ready full-stack web application for SHL-style assessments with real-time proctoring, analytics, and admin management.
+A production-ready full-stack web application for SHL-style assessments with real-time proctoring, analytics, and admin management
 
 ## Tech Stack
 
